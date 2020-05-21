@@ -28,9 +28,9 @@ figcaption {
   font-size: 7px;
 }
 
-#details {
-  display: block;
-}
+/*#details {*/
+/*  display: block;*/
+/*}*/
 
 #details div {
   width: 25%;
