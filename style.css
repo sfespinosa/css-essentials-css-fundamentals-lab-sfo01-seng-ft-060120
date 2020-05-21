@@ -24,8 +24,10 @@ figcaption {
 #featured-property {
   align-items: center;
 }
-#featured-property p {
 
+#featured-property p {
+  width: 800px;
+  align-items: center;
 }
 
 #details {
