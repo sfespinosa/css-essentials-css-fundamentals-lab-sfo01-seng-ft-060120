@@ -21,10 +21,6 @@ figcaption {
   font-size: 7pt;
 }
 
-#featured-property {
-  align-items: center;
-}
-
 #featured-property p {
   width: 800px;
   align-items: right;
